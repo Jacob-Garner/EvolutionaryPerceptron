@@ -1,0 +1,26 @@
+﻿~Data set name:
+@Clouds
+
+~Description:
+-This data set defines two types of clouds, Cumulus and Cirrus. 
+-Cumulus clouds (represented by a 0) form anywhere from 
+-2,000 - 7,000ft in altitude, and are puffy in shape 
+-(represented by a 0). Cirrus clouds (represented by a 1) from 
+-anywhere from 16,500 - 45,000ft in altitude, and are thin in 
+-shape (represented by a 1).
+
+~Data (altitude, shape, type):
+> 5939,0,0
+> 24767,1,1
+> 3085,0,0
+> 31485,1,1
+> 3150,0,0
+> 26525,1,1
+> 2329,0,0
+> 33443,1,1
+> 5501,0,0
+> 43102,1,1
+
+~Test data:
+? 5293,0
+? 17456,1

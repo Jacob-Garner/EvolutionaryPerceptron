@@ -1,0 +1,13 @@
+﻿~Data set name:
+@Name
+
+~Description:
+-N/A
+
+~Data ():
+> A,B,C,Z
+> A,B,C,Z
+> 
+
+~Test data:
+? 
