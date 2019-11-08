@@ -3,7 +3,7 @@
 ### Version: 1.0.0.0
 
 EvolutionaryPerceptron is my first project in conventional neuroevolution
-and is meant to get my feel wet w/the concept. EvolutionaryPerceptron 
+and is meant to get my feet wet w/the concept. EvolutionaryPerceptron 
 combines a perceptron with a genetic algorithm. The genetic algorithm is 
 used to evolve the weights and bias of the perceptron, so that it can
 preform a task. In this case, the perceptron is evolved to distinguish
